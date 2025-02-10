@@ -18,11 +18,37 @@ We **especially welcome contributions from IITians, IISc alumni, GATE AIR ranker
 
 ### **📂 Subjects Covered**  
 We are building **comprehensive solutions** for:  
-- **Mathematics (MA)**  
-- **Computer Science (CS)**  
-- **Mechanical Engineering (ME)**  
+
+- **Aerospace Engineering (AE)**  
+- **Agricultural Engineering (AG)**  
+- **Architecture and Planning (AR)**  
+- **Biomedical Engineering (BM)**  
+- **Biotechnology (BT)**  
+- **Civil Engineering (CE)**  
+- **Chemical Engineering (CH)**  
+- **Computer Science & Information Technology (CS)**  
+- **Chemistry (CY)**  
+- **Data Science & Artificial Intelligence (DA)**  
+- **Electronics & Communication Engineering (EC)**  
 - **Electrical Engineering (EE)**  
-- **And many more...**  
+- **Environmental Science & Engineering (ES)**  
+- **Ecology and Evolution (EY)**  
+- **Geomatics Engineering (GE)**  
+- **Geology & Geophysics (GG)**  
+- **Instrumentation Engineering (IN)**  
+- **Mathematics (MA)**  
+- **Mechanical Engineering (ME)**  
+- **Mining Engineering (MN)**  
+- **Metallurgical Engineering (MT)**  
+- **Naval Architecture & Marine Engineering (NM)**  
+- **Petroleum Engineering (PE)**  
+- **Physics (PH)**  
+- **Production & Industrial Engineering (PI)**  
+- **Statistics (ST)**  
+- **Textile Engineering & Fibre Science (TF)**  
+- **Engineering Sciences (XE)**  
+- **Humanities & Social Sciences (XH)**  
+- **Life Sciences (XL)**  
 
 ---
 
